@@ -1,17 +1,5 @@
 ﻿
-@font-face {
-	font-family: Lemon-Regular;
-	src: url('Fonts/Lemon-Regular.ttf') format('truetype');
-}
 
-body {
-    background-color:#602D75;
-    width:1000px;
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom:auto;
-    margin-top:auto;
-}
 header {
     font-size:24px;
     padding-left:220px;
